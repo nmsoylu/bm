@@ -13,7 +13,7 @@ toc:
 ---
 
 <center>
-  <p>A Turkish translation is coming soon. Check our GitHub to learn how to contribute!</p>
+  <p>Türkçe Çeviri Yakın bir sürede hazırlanacak, Sende Github üzerinden bize yardımcı ol.</p>
 </center>
 
 <center><iframe width="720" height="394" src="https://www.youtube.com/embed/GmOzih6I1zs" frameborder="0" allowfullscreen></iframe></center>
@@ -22,12 +22,12 @@ toc:
 	<a href="/getting-started/" class="section">
 		<img src="/images/icons/mining.png"> 
 		<div class="section-title">New to Mining?</div> 
-		<div class="section-view">Get started ›</div> 
+		<div class="section-view">Başlarken›</div> 
 	</a>
 	<a href="/bitcoin-mining-hardware/" class="section">
 		<img src="/images/icons/mining2.png"> 
 		<div class="section-title">Mining Hardware</div> 
-		<div class="section-view">Learn More ›</div> 
+		<div class="section-view">Daha Fazlası ›</div> 
 	</a>
 	<a href="/best-bitcoin-cloud-mining-contract-reviews/" class="section">
 		<img src="/images/icons/cloud.png"> 
